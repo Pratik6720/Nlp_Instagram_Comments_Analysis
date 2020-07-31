@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b0978f6-8337-4896-bb2b-72747c386858" name="Default Changelist" comment="" />
+    <list default="true" id="3b0978f6-8337-4896-bb2b-72747c386858" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1e8JDYRdS3b1Ijs9W0MYgwtuw0I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="F:/pycharm projects/alpr-unconstrained-master" />
+    <property name="last_opened_file_path" value="F:/sih training/Vehicle Monitoring and Parking System" />
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
@@ -116,10 +121,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1593785125618">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1594993324135">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1593785125618" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1594993324135" />
     <state width="1345" height="574" key="GridCell.Tab.0.bottom" timestamp="1593722317829">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -140,9 +145,9 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="184" y="10" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1593714095971" />
-    <state x="379" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1593785102850">
+    <state x="379" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1594993108182">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="379" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1593785102850" />
+    <state x="379" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.736@0.0.1366.736" timestamp="1594993108182" />
   </component>
 </project>
